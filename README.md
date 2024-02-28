@@ -1,2 +1,1 @@
-# HTML-course
-Abdelrahman Gamal Course 
+The developing process of a movie web application
